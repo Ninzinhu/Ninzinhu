@@ -29,7 +29,8 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 <br />
 <br />
 
-<div>
 
+
+![snake gif](https://github.com/Ninzinhu/blob/output/github-contribuition-grid-snake.gif)
   
-</div>
+
