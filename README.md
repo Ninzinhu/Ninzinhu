@@ -5,7 +5,7 @@
 </p>
 
 ## About me
-I'm a student of Information Systems at Estácio University ([Estácio]([http://www.cefet-rj.br/](https://estacio.br/cursos/graduacao))). </br> Community is :heart:. Creative code person, excited to learn and a pet lover 😸
+I'm a student of Information Systems at Estácio University [Estácio](https://estacio.br/cursos/graduacao). </br> Community is :heart:. Creative code person, excited to learn and a pet lover 😸
 <br />
 
 ## Things I am passionate about
