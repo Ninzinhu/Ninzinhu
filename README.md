@@ -15,7 +15,7 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninzinhu&show_icons=true&theme=tokyonight)
 
 
 
