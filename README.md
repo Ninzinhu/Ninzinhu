@@ -31,6 +31,6 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 
 
 
-![snake gif](https://github.com/Ninzinhu/blob/output/github-contribuition-grid-snake.gif)
+![snake gif](https://github.com/Ninzinhu/Ninzinhu/blob/output/github-contribution-grid-snake.svg)
   
 
