@@ -12,6 +12,7 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 - Gym 🏋🏻
 - Code👩🏻‍💻
 - Money💸
+- Japanese Culture and Language 🇯🇵
 <br />
 
 
