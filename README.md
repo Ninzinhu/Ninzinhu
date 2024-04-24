@@ -5,13 +5,13 @@
 </p>
 
 ## About me
-I'm a student of Information Systems at Estácio University [Estácio](https://estacio.br/cursos/graduacao). </br> Community is :heart:. Creative code person, excited to learn and a pet lover 😸
+I'm a student of Information Systems at Estácio University [Estácio](https://estacio.br/cursos/graduacao). </br> Community is :heart:. 
 <br />
 
 ## Things I am passionate about
 - Gym 🏋🏻
 - Code👩🏻‍💻
-- Life🌎
+- Money💸
 <br />
 
 
@@ -28,3 +28,8 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /> --->
 <br />
 <br />
+
+<div>
+
+  
+</div>
