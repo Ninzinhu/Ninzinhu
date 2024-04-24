@@ -16,7 +16,7 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninzinhu&show_icons=true&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninzinhu&hide_progress=true)
 
 
 ## Tech Stack:
