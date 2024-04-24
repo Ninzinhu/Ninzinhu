@@ -31,6 +31,6 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 
 
 
-<!----![snake gif](https://github.com/Ninzinhu/Ninzinhu/blob/output/github-contribution-grid-snake.svg)
+[snake gif](https://github.com/Ninzinhu/ninzinhu/blob/output/github-contribution-grid-snake.svg)
   
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Ninzinhu&repo=Ninzinhu&theme=tokyonight)](https://github.com/Ninzinhu/Ninzinhu) ---->
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Ninzinhu&repo=ninzinhu&theme=tokyonight)](https://github.com/Ninzinhu/Ninzinhu)
