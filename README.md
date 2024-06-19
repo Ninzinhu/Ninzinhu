@@ -16,8 +16,9 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 <br />
 
 
-![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninzinhu&theme=tokyonight)
+
 ![TOP Langs](https://github-readme-stats.vercel.app/api?username=ninzinhu&theme=tokyonight)
+![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninzinhu&theme=tokyonight)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninzinhu&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninzinhu&layout=compact&langs_count=16&theme=tokyonight)  -->
 
