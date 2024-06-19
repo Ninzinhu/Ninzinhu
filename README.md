@@ -31,6 +31,7 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.w3schools.com/typescript/)
 [![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://material.angular.io/)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit)](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ninzinhu)
 
 
 
