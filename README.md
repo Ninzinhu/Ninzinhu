@@ -9,7 +9,7 @@
 I'm a student of Information Systems at Estácio University [Estácio](https://estacio.br/cursos/graduacao). </br> Community is :heart:. 
 <br />
 
-## Things I am passionate about
+## Things I am passionate about.
 - Gym 🏋🏻
 - Code👩🏻‍💻
 - Money💸
