@@ -1,9 +1,17 @@
 
-### Hi, I'm João! 👋
+<!---### Hi, I'm João! 👋 --->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inte&weight=700&duration=3000&pause=1000&color=6593E0&center=true&vCenter=true&random=true&width=435&lines=Hi;be+welcome" alt="Typing SVG" />
+  </a>
+</div>
 
+ 
 <p align="center"> 
   <img src="https://github.com/Ninzinhu/Ninzinhu/blob/main/kenshinhimura.gif"">
 </p>
+
+
 
 ## About me
 I'm a student of Information Systems at Estácio University [Estácio](https://estacio.br/cursos/graduacao). </br> Community is :heart:. 
