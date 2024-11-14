@@ -24,27 +24,59 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 - Japanese Culture and Language 🇯🇵
 <br />
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<!---<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ninzinhu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> -->
 
-![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninzinhu&theme=tokyonight) 
-![TOP Langs](https://github-readme-stats.vercel.app/api?username=ninzinhu&theme=tokyonight)
+<div style="text-align: center;">
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ninzinhu&theme=dracula&utcOffset=-3" alt="GitHub Commits"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninzinhu&theme=dracula" alt="GitHub Details"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
+
+<!---- ![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninzinhu&theme=tokyonight) 
+![TOP Langs](https://github-readme-stats.vercel.app/api?username=ninzinhu&theme=tokyonight) !-->
+
+
+## Tech Stack:
+<div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,java,go,kotlin,react,nodejs,express,vue,docker,linux,postman,mongodb,postgres,swift" />
+</a>
+  <br />
+
+  </div>
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninzinhu&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninzinhu&layout=compact&langs_count=16&theme=tokyonight)  -->
 
 
-## Tech Stack:
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+
+<!--- [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.w3schools.com/typescript/)
 [![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://material.angular.io/)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit)](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
-[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ninzinhu)
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ninzinhu) --->
 
 
 
