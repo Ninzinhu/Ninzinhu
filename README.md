@@ -46,7 +46,11 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 
 </div>
 
+  ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ninzinhu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 
@@ -63,6 +67,8 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
   <br />
 
   </div>
+
+
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninzinhu&show_icons=true&theme=tokyonight)
@@ -92,6 +98,8 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
 
 <br />
 <br />
+
+
 
 
  
