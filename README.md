@@ -105,7 +105,7 @@ I'm a student of Information Systems at Estácio University [Estácio](https://e
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=Ninzinhu&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
 
 <!----[snake gif](https://github.com/ninzinhu/ninzinhu/blob/output/github-contribution-grid-snake.svg)
