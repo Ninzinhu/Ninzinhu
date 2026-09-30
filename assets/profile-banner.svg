@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ninzinhu | Coding &amp; Cybersecurity</title>
+  <desc id="desc">Banner de terminal em azul e verde: construir, entender, proteger.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#122333"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#58A6FF" stroke-opacity=".06"/></pattern>
+    <linearGradient id="accent"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#3FB950"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="32" y="28" width="1136" height="304" rx="12" fill="#0D1117" fill-opacity=".7" stroke="#30363D"/>
+  <path d="M32 72H1168" stroke="#30363D"/>
+  <circle cx="57" cy="50" r="6" fill="#FF7B72"/><circle cx="79" cy="50" r="6" fill="#E3B341"/><circle cx="101" cy="50" r="6" fill="#3FB950"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="600" y="55" fill="#8B949E" font-size="14" text-anchor="middle">ninzinhu / profile</text>
+    <text x="68" y="117" fill="#3FB950" font-size="18">joao@github:~$ whoami</text>
+    <text x="65" y="188" fill="#F0F6FC" font-size="62" font-weight="700" letter-spacing="2">NINZINHU<tspan fill="#3FB950">_</tspan></text>
+    <text x="68" y="229" fill="#58A6FF" font-size="24">CODING &amp; CYBERSECURITY</text>
+    <text x="68" y="289" fill="#B1BAC4" font-size="19">Construir. Entender. Proteger.</text>
+  </g>
+  <g transform="translate(970 178)" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0-66 65-42V5C65 44 31 71 0 86-31 71-65 44-65 5V-42Z" fill="#3FB950" fill-opacity=".04"/>
+    <path d="M-22-10-40 8-22 26M22-10 40 8 22 26M9-22-9 38"/>
+  </g>
+  <rect x="68" y="310" width="180" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>

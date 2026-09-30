@@ -1,113 +1,84 @@
-
-<!---### Hi, I'm João! 👋 --->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inte&weight=700&duration=3000&pause=1000&color=6593E0&center=true&vCenter=true&random=true&width=435&lines=Hi;be+welcome" alt="Typing SVG" />
-  </a>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Ninzinhu — Coding & Cybersecurity. Construir, entender, proteger." />
+
+  <h1>Olá, eu sou o João 👋</h1>
+  <p><strong>Desenvolvimento de software · Cibersegurança · Curiosidade por sistemas</strong></p>
+  <p>Construir software, entender como funciona e explorar como torná-lo mais seguro.</p>
+
+  <a href="https://github.com/Ninzinhu?tab=repositories"><img src="https://img.shields.io/badge/Projetos-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=58A6FF" alt="Ver meus projetos no GitHub" /></a>
+  <a href="https://www.linkedin.com/in/jvemmanuel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Entrar em contato pelo LinkedIn" /></a>
 </div>
 
- 
-<p align="center"> 
-  <img src="https://github.com/Ninzinhu/Ninzinhu/blob/main/kenshinhimura.gif"">
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou **João Victor Emmanuell**, também conhecido como **Ninzinhu**, estudante de **Sistemas de Informação na [Estácio](https://estacio.br/cursos/graduacao)**.
+
+Meu foco está na interseção entre **coding e cibersegurança**: desenvolver aplicações e entender as decisões que ajudam a proteger código, dados e sistemas. Por aqui, compartilho projetos e meu caminho de aprendizado.
+
+- **Código na prática:** projetos em Java, incluindo plugins e integrações para jogos.
+- **Interesses em segurança:** segurança de aplicações, desenvolvimento seguro e fundamentos de redes e Linux.
+- **Além do teclado:** academia, cultura japonesa e idioma japonês.
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que você encontra | Tecnologia |
+| :--- | :--- | :--- |
+| [**ChestCommands**](https://github.com/Ninzinhu/ChestCommands) | Sistema de menus configuráveis para Hytale, com separação entre core, API e integração com o servidor. | Java |
+| [**KonpekiEconomy**](https://github.com/Ninzinhu/KonpekiEconomy) | Plugin de economia para Hytale. | Java |
+
+**[Explorar todos os repositórios →](https://github.com/Ninzinhu?tab=repositories)**
+
+## 🛠️ Tecnologias
+
+Tecnologias que fazem parte do meu repertório de desenvolvimento e estudos.
+
+### Linguagens e backend
+
+<img src="https://skillicons.dev/icons?i=java,go,kotlin,nodejs,express&amp;theme=dark&amp;perline=5" alt="Java, Go, Kotlin, Node.js e Express" />
+
+**Java · Go · Kotlin · Node.js · Express**
+
+### Interfaces e mobile
+
+<img src="https://skillicons.dev/icons?i=react,vue,swift&amp;theme=dark&amp;perline=3" alt="React, Vue e Swift" />
+
+**React · Vue · Swift**
+
+### Ambiente e dados
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,postman,postgres,mongodb&amp;theme=dark&amp;perline=6" alt="Linux, Docker, Git, Postman, PostgreSQL e MongoDB" />
+
+**Linux · Docker · Git · Postman · PostgreSQL · MongoDB**
+
+## 🛡️ Cibersegurança
+
+Áreas que quero aprofundar, conectando segurança ao desenvolvimento de software:
+
+<p>
+  <img src="https://img.shields.io/badge/AppSec-161B22?style=for-the-badge&amp;logo=owasp&amp;logoColor=3FB950" alt="Interesse em segurança de aplicações" />
+  <img src="https://img.shields.io/badge/Secure_Coding-161B22?style=for-the-badge&amp;logoColor=3FB950" alt="Interesse em desenvolvimento seguro" />
+  <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&amp;logo=linux&amp;logoColor=3FB950" alt="Interesse em segurança no Linux" />
+  <img src="https://img.shields.io/badge/Redes-161B22?style=for-the-badge" alt="Interesse em fundamentos de redes" />
 </p>
 
+- **Aplicações:** autenticação, autorização, validação de entradas e proteção de dados.
+- **Código:** revisão, tratamento de erros e uso de dependências com atenção à segurança.
+- **Sistemas:** permissões, serviços, protocolos e comunicação entre aplicações.
 
+## 📊 Atividade no GitHub
 
-## About me
-I'm a student of Information Systems at Estácio University [Estácio](https://estacio.br/cursos/graduacao). </br> Community is :heart:. 
-<br />
+<details>
+  <summary><strong>Ver meu mapa de contribuições em 3D</strong></summary>
+  <br />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Mapa tridimensional das minhas contribuições no GitHub, gerado pelo workflow deste repositório" />
+</details>
 
-## Things I am passionate about.
-- Gym 🏋🏻
-- Code👩🏻‍💻
-- Money💸
-- Japanese Culture and Language 🇯🇵
-<br />
-
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-<div style="text-align: center;">
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ninzinhu&theme=dracula&utcOffset=-3" alt="GitHub Commits"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninzinhu&theme=dracula" alt="GitHub Details"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-  ###
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ninzinhu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <p><strong>Vamos conversar sobre código e segurança?</strong></p>
+  <p><a href="https://www.linkedin.com/in/jvemmanuel">LinkedIn</a> · <a href="https://github.com/Ninzinhu?tab=repositories">Projetos</a></p>
+  <sub>Aprender, construir, revisar. Repetir.</sub>
 </div>
-
-
-
-
-<!---- ![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninzinhu&theme=tokyonight) 
-![TOP Langs](https://github-readme-stats.vercel.app/api?username=ninzinhu&theme=tokyonight) !-->
-
-
-## Tech Stack:
-<div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,java,go,kotlin,react,nodejs,express,vue,docker,linux,postman,mongodb,postgres,swift" />
-</a>
-  <br />
-
-  </div>
-
-
-
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninzinhu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninzinhu&layout=compact&langs_count=16&theme=tokyonight)  -->
-
-
-
-<!--- [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
-[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.w3schools.com/typescript/)
-[![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://material.angular.io/)
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit)](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
-[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ninzinhu) --->
-
-
-
-
-<!----<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JS" width="26px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-<a href="https://material.angular.io/" target="_blank"> <img align="left" alt="Angular" width="26px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> </a>
-<a href="https://docs.oracle.com/javase/7/docs/api/java/lang/String.html" target="_blank"> <img align="left" alt="Java" width="26px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> </a>
-<a href="https://github.com/Ninzinhu" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /> </a> --->
-
-
-
-<br />
-<br />
-
-
-
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=Ninzinhu&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-
-<!----[snake gif](https://github.com/ninzinhu/ninzinhu/blob/output/github-contribution-grid-snake.svg)
-  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ninzinhu&repo=ninzinhu&theme=tokyonight)](https://github.com/ninzinhu/ninzinhu) --->
